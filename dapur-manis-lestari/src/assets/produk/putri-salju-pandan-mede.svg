@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Putri Salju Pandan Mede">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FAF4E4"/><stop offset="1" stop-color="#F8C4C4"/></linearGradient>
+<linearGradient id="bowl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e3cdd1"/></linearGradient>
+<g id="c"><path d="M-48 0A48 48 0 0 1 48 0A48 30 0 0 0 -48 0Z" fill="#fbfaf2" stroke="#cfe3c2" stroke-width="3"/><path d="M-36 -8A36 36 0 0 1 36 -8" fill="none" stroke="#9fcf8b" stroke-width="6" stroke-linecap="round" opacity=".5"/></g>
+</defs>
+<rect width="600" height="600" fill="url(#bg)"/>
+<rect y="478" width="600" height="122" fill="#f6d3d6" opacity=".7"/>
+<ellipse cx="300" cy="512" rx="175" ry="16" fill="#820527" opacity=".14"/>
+<ellipse cx="300" cy="345" rx="180" ry="26" fill="#d8c3c7"/>
+<use href="#c" transform="translate(300 240) rotate(0)"/><use href="#c" transform="translate(215 258) rotate(-30)"/><use href="#c" transform="translate(385 258) rotate(30)"/><use href="#c" transform="translate(255 288) rotate(25)"/><use href="#c" transform="translate(345 288) rotate(-20)"/><use href="#c" transform="translate(425 310) rotate(40)"/><use href="#c" transform="translate(175 312) rotate(-38)"/><use href="#c" transform="translate(210 330) rotate(-15)"/><use href="#c" transform="translate(390 330) rotate(20)"/><use href="#c" transform="translate(300 338) rotate(8)"/>
+<path d="M120 345A180 26 0 0 0 480 345C480 450 420 500 300 500C180 500 120 450 120 345Z" fill="url(#bowl)" stroke="#e3cdd1" stroke-width="3"/>
+<path d="M135 405Q300 445 465 405" fill="none" stroke="#7fbf6a" stroke-width="7" opacity=".7"/>
+<path d="M120 345A180 26 0 0 0 480 345" fill="none" stroke="#fff" stroke-width="4"/>
+<path d="M470 505C495 455 540 445 565 400C568 455 535 505 470 505Z" fill="#5aa05a"/>
+<path d="M470 505C500 470 525 455 565 400" fill="none" stroke="#3f7d3f" stroke-width="3"/>
+<path d="M95 498q16-20 34-7q-8 17-34 7zM140 515q16-20 34-7q-8 17-34 7z" fill="#e8c48a"/>
+<circle cx="120" cy="520" r="5" fill="#fff" opacity=".85"/><circle cx="150" cy="540" r="3" fill="#fff" opacity=".85"/><circle cx="470" cy="535" r="4" fill="#fff" opacity=".85"/><circle cx="430" cy="555" r="3" fill="#fff" opacity=".85"/><circle cx="95" cy="555" r="3" fill="#fff" opacity=".85"/><circle cx="520" cy="520" r="3" fill="#fff" opacity=".85"/>
+</svg>
